@@ -1,0 +1,5 @@
+.venv/
+.env
+*.sqlite*
+definitions.csv
+__pycache__/
